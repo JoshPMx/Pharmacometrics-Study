@@ -1,9 +1,9 @@
-#  After completing this chapter, you will be able to. . .
+  After completing this chapter, you will be able to. . .
 • Provide a rationale for the use of R.
 • Understand how to log in and use the Metrum Institute courseware server.
 • Name and define the main R objects and data types.
 • Access R help.
-*• Create R objects and perform simple operations on them.
+• Create R objects and perform simple operations on them.
 • Import and export simple data sets with R.
 • Load an R package.
 • Write and save an R script and execute code from an R script.
