@@ -1,5 +1,5 @@
 # MI-205-R-for-Pharmacometrics
-完成本章的Afeter，你将能够。。。
+完成本章，你将能够。。。
 
 •提供使用R的理由。
 
